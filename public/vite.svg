@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path d="M32 6.076l-6.874-5.714c-0.406-0.336-1.002-0.344-1.416-0.020l-4.754 3.714-6.956-5.784c-0.4-0.332-0.982-0.34-1.394-0.020l-10.606 8.244 18.35 25.504 13.65-17.85c0.41-0.536 0.488-1.246 0.202-1.852z" fill="url(#vite-gradient)" />
+  <defs>
+    <linearGradient id="vite-gradient" x1="32" y1="6.076" x2="13.602" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#41D1FF" />
+      <stop offset="1" stop-color="#BD34FE" />
+    </linearGradient>
+  </defs>
+</svg>

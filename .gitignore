@@ -1,0 +1,85 @@
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Windows temporary files
+~$*
+*.lnk
+
+# IDEs / editors
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+.cache/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+venv/
+.venv/
+env/
+ENV/
+pip-log.txt
+
+# Java / Gradle / Maven
+*.class
+target/
+build/
+.gradle/
+out/
+
+# .NET / C#
+bin/
+obj/
+*.user
+*.suo
+*.userossc
+
+# C / C++
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+# Logs / temp
+logs/
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Coverage and reports
+coverage/
+htmlcov/
+.coverage
+
+# Environment / secrets
+.env
+.env.*
+secrets.*
+credentials.json
+private.key
+
+# Misc
+*.lock
+*.zip
+*.tar.gz
+*.bak
